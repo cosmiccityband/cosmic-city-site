@@ -29,8 +29,8 @@ main {
     text-transform: uppercase;
     font-size: 5em;
     letter-spacing: 15px;
-    color: #e572fd;
-    text-shadow: 0 0 10px #28bebf, 0 0 10px #1e9191;
+    color: #5382EF;
+    text-shadow: 0 0 10px #BACDFE, 0 0 10px #BACDFE;
     animation: animate 2s 6 linear;
     display: inline-block;
 }
@@ -43,40 +43,40 @@ main {
 
 @keyframes animate {
     0% {
-        color: #633695;
+        color: #9db2e4;
         text-shadow: none;
     }
     18% {
-        color: #633695;
+        color: #9db2e4;
         text-shadow: none;
     }
     20% {
-        color: #e572fd;
-        text-shadow: 0 0 10px #28bebf, 0 0 10px #1e9191;
+        color: #5382EF;
+        text-shadow: 0 0 10px #BACDFE, 0 0 10px #BACDFE;
     }
     30% {
-        color: #633695;
+        color: #9db2e4;
         text-shadow: none;
     }
     35% {
-        color: #e572fd;
-        text-shadow: 0 0 10px #28bebf, 0 0 10px #1e9191;
+        color: #5382EF;
+        text-shadow: 0 0 10px #BACDFE, 0 0 10px #BACDFE;
     }
     70% {
-        color: #633695;
+        color: #9db2e4;
         text-shadow: none;
     }
     85% {
-        color: #e572fd;
-        text-shadow: 0 0 10px #28bebf, 0 0 10px #1e9191;
+        color: #5382EF;
+        text-shadow: 0 0 10px #BACDFE, 0 0 10px #BACDFE;
     }
     90% {
-        color: #633695;
+        color: #9db2e4;
         text-shadow: none;
     }
     100% {
-        color: #e572fd;
-        text-shadow: 0 0 10px #28bebf, 0 0 10px #1e9191;
+        color: #5382EF;
+        text-shadow: 0 0 10px #BACDFE, 0 0 10px #BACDFE;
     }
 }
 .page__title ul li:nth-child(1) {
@@ -121,7 +121,7 @@ main {
 
 .videos__header {
     text-align: left;
-    border-bottom: #28bebf solid 2px;
+    border-bottom: #BACDFE solid 2px;
     line-height: 1.2;
     margin-bottom: 20px;
     font-size: 16px;
@@ -183,10 +183,10 @@ main {
     margin: 0 auto;
     width: 50px;
     height: 50px;
-    border: 6px solid #e572fd;
+    border: 6px solid #5382EF;
     border-radius: 50%;
-    border-top-color:  #28bebf;
-    border-left-color:  #28bebf;
+    border-top-color:  #BACDFE;
+    border-left-color:  #BACDFE;
     animation: spin 1s ease-in-out infinite;
 }
 
