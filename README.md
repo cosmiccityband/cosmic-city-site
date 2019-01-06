@@ -1,4 +1,4 @@
-# Cosmic Storm Band Website
+# Cosmic City Band Website
 
 ## Data Updates
 
