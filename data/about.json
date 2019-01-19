@@ -2,12 +2,44 @@
     "contentName": "About",
     "bandMembers": [
         {
-            "bandName": "FUNKBURY",
-            "name": "Mark Westbury",
-            "roles": "Drummer, Backing Vocalist",
+            
+        "name": "Bennett",
+            "roles": "Guitar, Lead and Backing Vocalist & Songwriter ",
             "description": [
-                "Mark is a songwriter and drummer for the band and adds the harmonies when needed. Originally from Australia he has been banging the skins for many years.",
-                "He has the ability to kick out the funkiest beats has given this band the backbone they need to keep the dancers on the dance floor."
+                "Bennett played in a prevous band with Mark, after getting some texts from Mark to jam he had a listen to the rehearsals and came down to the studio to jam out." 
+                "Bennett is one of two guitarist for the band and sings lead and adds the harmonies when needed, Originally from Charolina he has played with other original bands before moving to NYC for work where he met Mark through friends hearing his call outs for guitarists",
+                "Bennett always looking for the tasty solo or nice little groove to give this band the melody."
+            ],
+            "image": "./images/photos/Bitter-End-2018-02-15/BitterEnd-65.png",      
+
+        "name": "Karla",
+            "roles": "Singer, Vocalist & Songwriter ",
+            "description": [
+                "Karla is the newest member of the group, giving the band some fantastic vocals and great stage presence. She worked with Mark and he convinced her to come sing Sit down next to me for their first gig and the songs just kept coming from there."
+            ],
+            "image": "./images/photos/Bitter-End-2018-02-15/BitterEnd-65.png",
+
+        "name": "Kevin",
+            "roles": "Guitarist, keyboardist & Songwriter ",
+            "description": [
+                "Will asked kevin to come have a jam with Mark and we all just hit a funky rythm! Kevin brings in the funkiest rythm guitar and lays down some smooth keys, the Multi instrumentalist of the band who will always shoot you a smile on stage."],
+            
+            "image": "./images/photos/Bitter-End-2018-02-15/BitterEnd-65.png",
+        
+        "name": "Will",
+            "roles": "Bassist & Songwriter ",
+            "description": [
+                "Will met mark through auditions for another band, Mark couldn't forget that funky bass and great attitude and so was a no brainer when Mark was forming Cosmic City the first guy he called up was Will." 
+                "Will a groove in his feet as he stomps across the stage banding out grooves and giving the low end that the crowd loves." 
+                 ],
+            "image": "./images/photos/Bitter-End-2018-02-15/BitterEnd-65.png",
+        
+        "name": "Mark Westbury",
+            "roles": "Drummer, Backing Vocalist & Songwriter ",
+            "description": [
+                "Mark helped gather the band members, after jamming with bassist Will a funky sound started to emerge. The songs starting with the drums and bass helped communicate the rythm to the other guys, 'We just know where we are going on a tune'." 
+                "Mark is the drummer for the band and adds the harmonies when needed, Originally from Australia he has been banging the skins for many years.",
+                "Mark's always looking for the funkiest beats to give this band the backbone they need to keep the room grooving."
             ],
             "image": "./images/photos/Bitter-End-2018-02-15/BitterEnd-65.png"
         }
