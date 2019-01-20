@@ -1,205 +1,115 @@
 {
     "contentName": "Pics",
-    "allPics": [
+    "allPics": 
+    [
         {
-            "eventTitle": "The Bitter End 2018 - 1",
+            "eventTitle": "Pianos NYC Jan 17th 2019",
             "pics": [
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Stage_pianos.jpg",
                     "caption": "The Bitter End 2/2018 - Peddle Board",
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00001.jpg",
                     "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00002.jpg",
                     "caption": "The Bitter End 2/2018 - Drums Going Wild",
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00003.jpg",
                     "caption": "The Bitter End 2/2018 - Peddle Board",
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00004.jpg",
                     "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00005.jpg",
                     "caption": "The Bitter End 2/2018 - Drums Going Wild",
                     "credit": ""
                 }
+                {
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00006.jpg",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                }
+                {
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00007.jpg",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                }
+                {
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00008.jpg",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                }
+                {
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00009.jpg",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                }
+                {
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00010.jpg",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                }
+                {
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00011.jpg",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                }
+                {
+                    "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00012.jpg",
+                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "credit": ""
+                }
+
             ]
         },
         {
-            "eventTitle": "The Bitter End 2018 - 2",
+            "eventTitle": "Rehearsals",
             "pics": [
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
+                    "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00001.jpg",
+                    "caption": "Rehearsals Replay Studios",
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
+                    "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00002.jpg",
+                    "caption": "Rehearsals Replay Studios",
                     "credit": ""
                 },
                 {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00003.jpg",
+                    "caption": "Rehearsals Replay Studios",
                     "credit": ""
-                }
+                },
+                {
+                    "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00004.jpg",
+                    "caption": "Rehearsals Replay Studios",
+                    "credit": ""
+                },
+                {
+                    "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00005.jpg",
+                    "caption": "Rehearsals Replay Studios",
+                    "credit": ""
+                },
+                {
+                    "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00006.mp4",
+                    "caption": "Rehearsals Replay Studios",
+                    "credit": ""
+                },
             ]
         },
-        {
-            "eventTitle": "The Bitter End 2018 - 3",
-            "pics": [
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                }
-            ]
-        },
-        {
-            "eventTitle": "The Bitter End 2018 - 4",
-            "pics": [
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                }
-            ]
-        },
-        {
-            "eventTitle": "The Bitter End 2018 - 5",
-            "pics": [
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                }
-            ]
-        },
-        {
-            "eventTitle": "The Bitter End 2018 - 6",
-            "pics": [
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                }
-            ]
-        },
-        {
-            "eventTitle": "The Bitter End 2018 - 7",
-            "pics": [
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-28.png",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-20.png",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                },
-                {
-                    "imageSrc": "./images/photos/Bitter-End-2018-02-15/BitterEnd-66.png",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
-                    "credit": ""
-                }
-            ]
-        }
     ]
-}
+ }
+       
+        
+    
