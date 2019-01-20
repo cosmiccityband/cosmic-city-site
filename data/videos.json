@@ -2,86 +2,42 @@
     "contentName": "Videos",
     "featuredVideos": [
     ],
-    "allVideos": [
+    "allVideos": 
+    [
+
         {
-            "eventTitle": "The Bitter End 2018 - 1",
+            "eventTitle": "Pianos NYC Jan 2019",
+            "videos": [
+              {
+                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/pJQGRBMT1Cw\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+                    "caption": "",
+                    "credit": ""
+                },  
+
+                {
+                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/t05OlGcSR60\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>",
+                    "caption": "",
+                    "credit": ""
+                },
+               
+            ]
+        },
+        {
+            "eventTitle": "Rehearal - Replay Studios",
             "videos": [
                 {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/LtKW8axIc8o\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/sZ3oIe4idok\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
                     "caption": "",
                     "credit": ""
                 },
                 {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/LtKW8axIc8o\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/LtKW8axIc8o\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/JZqyWbhT4UM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
                     "caption": "",
                     "credit": ""
                 }
             ]
         },
-        {
-            "eventTitle": "The Bitter End 2018 - 2",
-            "videos": [
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/Zy13Ain0MBU\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/Zy13Ain0MBU\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                }
-            ]
-        },
-        {
-            "eventTitle": "The Bitter End 2018 - 3",
-            "videos": [
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/oG0pIFjiP58\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/oG0pIFjiP58\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/oG0pIFjiP58\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                },
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/oG0pIFjiP58\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                }
-            ]
-        },
-        {
-            "eventTitle": "The Bitter End 2018 - 4",
-            "videos": [
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/_wV93G4YuuY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                }
-            ]
-        },
-        {
-            "eventTitle": "The Bitter End 2018 - 5",
-            "videos": [
-                {
-                    "embedCode": "<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/_wV93G4YuuY\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-                    "caption": "",
-                    "credit": ""
-                }
-            ]
-        }
+        
     ]
+        
 }
