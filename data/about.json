@@ -5,13 +5,17 @@
         {
             
         "name": "Bennett",
+            
             "roles": "Guitar, Lead and Backing Vocalist & Songwriter ",
             "description": [
                 "Bennett played in a prevous band with Mark, after getting some texts from Mark to jam he had a listen to the rehearsals and came down to the studio to jam out." 
                 "Bennett is one of two guitarist for the band and sings lead and adds the harmonies when needed, Originally from Charolina he has played with other original bands before moving to NYC for work where he met Mark through friends hearing his call outs for guitarists",
                 "Bennett always looking for the tasty solo or nice little groove to give this band the melody."
             ],
-            "image": ""      
+            "image": ""
+        }
+                  
+        {          
 
         "name": "Karla",
             "roles": "Singer, Vocalist & Songwriter ",
@@ -19,14 +23,17 @@
                 "Karla is the newest member of the group, giving the band some fantastic vocals and great stage presence. She worked with Mark and he convinced her to come sing Sit down next to me for their first gig and the songs just kept coming from there."
             ],
             "image": ""
+        }
 
+        {
         "name": "Kevin",
             "roles": "Guitarist, keyboardist & Songwriter ",
             "description": [
                 "Will asked kevin to come have a jam with Mark and we all just hit a funky rythm! Kevin brings in the funkiest rythm guitar and lays down some smooth keys, the Multi instrumentalist of the band who will always shoot you a smile on stage."],
             
             "image": ""
-        
+        }
+        {
         "name": "Will",
             "roles": "Bassist & Songwriter ",
             "description": [
@@ -34,7 +41,8 @@
                 "Will a groove in his feet as he stomps across the stage banding out grooves and giving the low end that the crowd loves." 
                  ],
             "image": ""
-        
+        }
+        {
         "name": "Mark Westbury",
             "roles": "Drummer, Backing Vocalist & Songwriter ",
             "description": [
