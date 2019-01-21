@@ -71,12 +71,13 @@
                     "caption": "Pianos",
                     "credit": ""
                 }
-            ]
-        }
+            ],
+        
             
-        ],
-                "eventTitle": "Rehearsals",
-                "pics": 
+        
+            
+            "eventTitle2": "Rehearsals",
+            "pics2": 
             [
                 {
                     "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00001.jpg",
@@ -108,14 +109,7 @@
                     "caption": "Rehearsals Replay Studios",
                     "credit": ""
                 }
-        ]  
+            ]
+        }
+    ]
 }
-    
-
-   
-    
- 
-
-       
-        
-    
