@@ -1,81 +1,83 @@
 {
     "contentName": "Pics",
     "allPics": 
-    [
+    [   
         {
             "eventTitle": "Pianos NYC Jan 17th 2019",
-            "pics": [
+            "pics": 
+            [
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Stage_pianos.jpg",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
+                    "caption": "Pianos",
                     "credit": ""
                 },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00001.jpg",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
+                    "caption": "Pianos",
                     "credit": ""
                 },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00002.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
                 },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00003.jpg",
-                    "caption": "The Bitter End 2/2018 - Peddle Board",
+                    "caption": "Pianos",
                     "credit": ""
                 },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00004.jpg",
-                    "caption": "The Bitter End 2/2018 - Sweet Guitar Action",
+                    "caption": "Pianos",
                     "credit": ""
                 },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00005.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
-                }
+                },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00006.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
-                }
+                },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00007.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
-                }
+                },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00008.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
-                }
+                },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00009.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
-                }
+                },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00010.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
-                }
+                },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00011.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
-                }
+                },
                 {
                     "imageSrc": "./images/photos/2019/Pianos_Jan19/Pianos-NYC-CosmicCity00012.jpg",
-                    "caption": "The Bitter End 2/2018 - Drums Going Wild",
+                    "caption": "Pianos",
                     "credit": ""
                 }
-
             ]
-        },
-        {
-            "eventTitle": "Rehearsals",
-            "pics": [
+        }
+            
+        ],
+                "eventTitle": "Rehearsals",
+                "pics": 
+            [
                 {
                     "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00001.jpg",
                     "caption": "Rehearsals Replay Studios",
@@ -105,11 +107,15 @@
                     "imageSrc": "./images/photos/photos/2019/Rehearsals/Rehearsals-ReplayStudios-CosmicCity00006.mp4",
                     "caption": "Rehearsals Replay Studios",
                     "credit": ""
-                },
-            ]
-        },
-    ]
- }
+                }
+        ]  
+}
+    
+
+   
+    
+ 
+
        
         
     
