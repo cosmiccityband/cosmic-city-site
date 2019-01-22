@@ -1,10 +1,11 @@
 {  
    "contentName":"Videos",
-   "featuredVideos":,
-   "allVideos":[  
+   "featuredVideos":
+   [
       {  
          "eventTitle":"Pianos NYC Jan 2019",
-         "videos":[  
+         "videos":
+         [  
             {  
                "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/pJQGRBMT1Cw\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
                "caption":"",
@@ -14,13 +15,14 @@
                "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/t05OlGcSR60\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>",
                "caption":"",
                "credit":""
-            },
-
+            }
          ]
-      },
-      {  
+      }
+       
+         {  
          "eventTitle":"Rehearal - Replay Studios",
-         "videos":[  
+         "videos":
+         [  
             {  
                "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/sZ3oIe4idok\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
                "caption":"",
@@ -32,7 +34,7 @@
                "credit":""
             }
          ]
-      },
-
+      }
    ]
+   
 }
