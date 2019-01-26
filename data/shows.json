@@ -1,6 +1,15 @@
 {
     "contentName": "Shows",
-    "shows": [
-        "The Bitter End on Thursday, March 28 at 9:00pm"
+    "shows": 
+    [
+        {
+        "showName": "March 28th, 9pm @ The Bitter End",
+            "showDetails": 
+            [
+                "The Bitter End is the oldest rock and roll club in New York City.",
+        "Cosmic City will be bringing their Funky vibe to this clasic location",
+                "<a href=\"http://http://www.bitterend.com/\" target=\"_blank\">bitterend.com<\/a>"
+            ]
+        }
     ]
 }
