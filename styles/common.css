@@ -1,8 +1,8 @@
 body {
     margin: 0;
     padding: 0;
-    background: #221e1e;
-    background-image: url(./../images/backdrop/CosmicWall.jpg);
+    background: #292e5e;
+    background-image: url(./../images/backdrop/WallCosmic.png);
     background-size: contain;
     background-position: center;
     font-family: 'Syncopate', sans-serif;
@@ -20,7 +20,12 @@ nav {
     bottom: 0;
     left: 0;
     width: 300px;
-    background-color: #09308B;
+    /* Addin */
+    background: #292e5e;
+    background-image: url(./../images/backdrop/Left_Wall1.png);
+    background-size: contain;
+    background-position: center;
+    /* End Addin */
     color: white;
 }
 
@@ -31,15 +36,15 @@ nav {
 }
 
 nav .logo {
-    height: 300px;
-    width: 80%;
+    height: 150px;
+    width: 100%;
     background: url(./../images/logo/CosmicCity.png) center/contain no-repeat;
     margin: 0 auto;
 }
 
 nav ul {
     padding: 0;
-    margin: 0;
+    margin: 20px;
 }
 
 nav ul li {
@@ -71,7 +76,7 @@ nav ul li a {
     }
 
     body.mobile-menu-open nav {
-        left: 0;
+        left: 10px;
         width: 100%;
     }
 
@@ -84,7 +89,7 @@ nav ul li a {
     }
 
     .hamburger-open-button {
-        right: -20px;
+        right: -40px;
     }
 
     .x-close-button {
@@ -119,7 +124,7 @@ main {
     vertical-align: top;
     margin: 0 auto 20px;
     position: absolute;
-    bottom: 0;
+    bottom: ;
     width: 100%;
 }
 
