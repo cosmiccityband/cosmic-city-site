@@ -1,7 +1,7 @@
 /* HERO */
 .hero {
     text-align: center;
-    height: 50vh;
+    height: 75vh;
     position: relative;
     background: url("./../images/logo/CosmicCity.png") center/contain no-repeat;
 }
@@ -68,8 +68,8 @@
 .videos,
 .news,
 .about,
-.contact,
-.subscribe {
+.contact
+{
     margin-bottom: 50px;
 }
 
@@ -77,8 +77,8 @@
 .videos__header,
 .news__header,
 .about__header,
-.contact__header,
-.subscribe__header {
+.contact__header
+{
     font-family: 'Audiowide', cursive;
     font-size: 36px;
     text-transform: uppercase;
