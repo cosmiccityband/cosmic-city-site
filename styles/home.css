@@ -1,9 +1,9 @@
 /* HERO */
 .hero {
     text-align: center;
-    height: 75vh;
+    height: 30vh;
     position: relative;
-    background: url("./../images/logo/CosmicCity.png") center/contain no-repeat;
+    background: url("./../images/logo/CosmicCity.png") center top/contain no-repeat;
 }
 
 /* CONTENT */

@@ -3,8 +3,8 @@ body {
     padding: 0;
     background: #292e5e;
     background-image: url(./../images/backdrop/WallCosmic.png);
-    background-size: contain;
-    background-position: center;
+    background-size: px;
+    background-position: left center;
     font-family: 'Syncopate', sans-serif;
     font-size: 12px;
 }
@@ -22,7 +22,7 @@ nav {
     width: 300px;
     /* Addin */
     background: #292e5e;
-    background-image: url(./../images/backdrop/Left_Wall1.png);
+    background-image: url(./../images/backdrop/Left_Wall.png);
     background-size: contain;
     background-position: center;
     /* End Addin */
@@ -57,7 +57,7 @@ nav ul li {
 
 @media (max-width: 500px) {
     nav ul li {
-        font-size: 14px;
+        font-size: 20px;
     }
 }
 
@@ -76,7 +76,7 @@ nav ul li a {
     }
 
     body.mobile-menu-open nav {
-        left: 10px;
+        left: 0;
         width: 100%;
     }
 
