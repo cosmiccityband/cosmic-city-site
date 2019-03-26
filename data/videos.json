@@ -3,42 +3,19 @@
    "featuredVideos":
    [
             {  
-               "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/pJQGRBMT1Cw\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"  
+               "embedCode":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/75iAaWMOzdk\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>" 
             }
    ],
 "allVideos": [
       {  
-         "eventTitle":"Pianos NYC Jan 2019",
+         "eventTitle":"Bitter End",
          "videos":
          [  
             {  
-               "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/pJQGRBMT1Cw\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-               "caption":"",
-               "credit":""
-            },
-            {  
-               "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/t05OlGcSR60\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>",
-               "caption":"",
-               "credit":""
+               "embedCode":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/75iAaWMOzdk\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>"
             }
-         ]
-      },
-       
-         {  
-         "eventTitle":"Rehearal - Replay Studios",
-         "videos":
-         [  
-            {  
-               "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/sZ3oIe4idok\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-               "caption":"",
-               "credit":""
-            },
-            {  
-               "embedCode":"<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/JZqyWbhT4UM\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
-               "caption":"",
-               "credit":""
-            }
+            
          ]
       }
-   ]
+]
 }
