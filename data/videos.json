@@ -3,7 +3,7 @@
    "featuredVideos":
    [
             {  
-               "embedCode":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/75iAaWMOzdk\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>" 
+               "embedCode":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SSyg6deqDCo\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>" 
             }
    ],
 "allVideos": [
@@ -13,8 +13,12 @@
          [  
             {  
                "embedCode":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/75iAaWMOzdk\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>"
-            }
+            },
             
+             {
+             "embedCode":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/SSyg6deqDCo\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" picture-in-picture\" allowfullscreen></iframe>" 
+             
+            }
          ]
       }
 ]
