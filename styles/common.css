@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background: #292e5e;
-    background-image: url(./../images/backdrop/WallCosmic.png);
+    background-color: url(./../images/backdrop/WallCosmic.png);
     background-size: px;
     background-position: left center;
     font-family: 'Syncopate', sans-serif;
@@ -22,7 +22,7 @@ nav {
     width: 300px;
     /* Addin */
     background: #292e5e;
-    background-image: url(./../images/backdrop/Left_Wall.png);
+    background-color: black;
     background-size: contain;
     background-position: center;
     /* End Addin */
